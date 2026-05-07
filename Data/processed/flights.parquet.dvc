@@ -1,0 +1,5 @@
+outs:
+- md5: d61ea61ffc76149f67067f6c5d3466aa
+  size: 9548038
+  hash: md5
+  path: flights.parquet
